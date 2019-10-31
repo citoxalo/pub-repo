@@ -1,0 +1,3 @@
+"dependencies": {
+    "private-module": "git+ssh://git@github.com-work/[private module name].git
+}
